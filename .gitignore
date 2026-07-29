@@ -1,0 +1,7 @@
+# Ignorar entorno virtual y caché de Python
+.venv/
+__pycache__/
+
+# Ignorar todo el contenido de las carpetas
+logs/*
+out_storage/*
